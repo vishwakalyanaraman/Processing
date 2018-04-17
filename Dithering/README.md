@@ -7,6 +7,5 @@ This code was inspired by Dan Shiffman (find him here : https://github.com/shiff
 ## Requirements
   Processing
 ## Sample
-
-
-![alt text](/reference.png "The image on the left is the source and the image on the right is after processing with this technique.")
+The image on the left is the source and the image on the right is after processing with this technique.
+![alt text](reference.png)

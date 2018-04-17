@@ -6,3 +6,7 @@ The algorithm achieves dithering using error diffusion, meaning it pushes (adds)
 This code was inspired by Dan Shiffman (find him here : https://github.com/shiffman)
 ## Requirements
   Processing
+## Sample
+
+
+![alt text](/reference.png "The image on the left is the source and the image on the right is after processing with this technique.")
